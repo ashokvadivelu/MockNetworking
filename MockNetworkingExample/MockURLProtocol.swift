@@ -2,7 +2,7 @@
 //  MockNetworkingProtocol.swift
 //  MockNetworkingExample
 //
-//  Created by fordlabs on 02/04/20.
+//  Created by ashok on 02/04/20.
 //  Copyright © 2020 ashok. All rights reserved.
 //
 
