@@ -1,3 +1,3 @@
 # MockNetworking
 
-This project helps you to mock the networking api call.
+This project act as a wrapper class to mock your networking api call.
